@@ -1,0 +1,482 @@
+.navbar-brand{
+    font-family: Script MT;
+    font-size: 28px !important;
+    color:mediumslateblue !important;
+}
+.sec-box{
+    height: 700px;
+    background-color: rgba(0, 0, 0, 0.49);
+   
+}
+
+.sec2{
+    
+    height: 700px;
+    text-align: center;
+    background-image: url(flower.jpg);
+    background-size: cover;
+}
+.home-box{
+     text-shadow: 0px 0px 3px black; 
+}
+
+.my-name{
+    font-size: 55px;
+    color: aliceblue;
+    font-family:'Times New Roman', Times, serif ;
+    margin-top: 280px;
+}
+.para1{
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.arrow{
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.arrow:hover{
+    color: goldenrod;
+}
+.sec3{
+    margin-top: 30px;
+}
+.aboutme-box{
+    min-height: 100px;
+    /* background-color: aquamarine; */
+    text-align: center;
+}
+.myabout{
+    font-size: 80px;
+    color: rgba(0, 0, 0, 0.107);
+    font-weight: bold;
+}
+.aboutme{
+   margin-top: -50px; 
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.photo-box{
+    min-height: 350px;
+     background-color: mediumslateblue; 
+    margin-top: 30px;
+}
+.details-box{
+     min-height: 350px; 
+     /* background-color: mediumslateblue;  */
+    margin-top: 30px;
+}
+.icon{
+    margin-left: 10px;
+    color: goldenrod;
+}
+.list{
+    margin-top: 20px;
+    padding: 5px;
+}
+.head{
+    font-size: 18px;
+    font-weight: bold;
+}
+.myname{
+    font-size: 18px;
+}
+.inbox1{
+    min-height: 20px;
+     /* background-color: rgb(235, 108, 23); */
+     margin-top: 20px; 
+     margin: 20px;
+ }
+
+
+   
+
+.inbox2{
+    height: 30px;
+     background-color: rgb(235, 108, 23);  
+   margin-left: 140px;
+   margin-top: 11px;
+}
+.resume-box{
+    height: 100px;
+     /* background-color: mediumaquamarine;  */
+    margin-top: 60px;
+    text-align: center;
+}
+.resume{
+    font-size: 60px;
+    font-weight: bold;
+    color: rgba(4, 4, 4, 0.236);
+}
+.head1{
+    font-size: 40px;
+    margin-top: -45px;
+    font-weight: bold;
+}
+.summery-box{
+    min-height: 500px;
+    /* background-color: lightskyblue; */
+    margin-top: 30px;
+    border-left: 2px solid gray;
+    padding-left: 15px;
+    position: relative;
+}
+.round{
+    height: 15px;
+    width: 15px;
+    border: 2px solid gray;
+    border-radius: 50%;
+    position: absolute;
+    left: -8px;
+    top: -14px;
+}
+.round1{
+    height: 15px;
+    width:15px;
+    border:2px solid gray;
+    border-radius: 50%; 
+     position: absolute; 
+    left: -8px;
+  
+}
+.round2{
+    height: 15px;
+    width:15px;
+    border:2px solid gray;
+    border-radius: 50%; 
+    position: absolute;
+   text-align: center;
+   margin-left: -5px;
+   
+   
+}
+.head2{
+    font-size: 30px;
+}
+.head3{
+    font-size: 20px;
+    color: mediumpurple;
+}
+.head4{
+    border:0px solid;
+    background-color: lightsteelblue;
+    width: 100px;
+    padding: 5px 3px 5px 3px;
+}
+.paragraph1{
+    font-style: italic;
+    font-size: 18px;
+    margin-left: 20px;
+}
+.class-box{
+    min-height: 38px;
+    /* background-color: antiquewhite; */
+}
+.para{
+    margin-left: 20px;
+    font-style: italic;
+}
+.certificate{
+    margin-left: 20px;
+}
+.myprojects-box{
+    min-height: 120px;
+    /* background-color: rgb(179, 213, 255); */
+    margin-top: 50px;
+}
+.my-projects{
+    color: rgba(0, 0, 0, 0.104);
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+.projects2{
+    margin-top: -37px;
+}
+.sec5{
+    text-align: center;
+    min-height: 500px;
+    /* background-color: goldenrod; */
+    margin-top: 50px;
+}
+.mybox{
+    min-height: 200px;
+     /* background-color: aquamarine;  */
+    margin-top: 20px;
+    transition: .5s;
+    
+}
+.mybox:hover{
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid gray;
+    padding: 7px 10px 7px 10px;
+    border-radius: 8px;
+}
+.contact-box{
+    min-height: 120px;
+    /* background-color: olive; */
+    margin-top: 80px;
+    text-align: center;
+}
+.contactme{
+   font-size: 50px;
+   font-weight: bold;
+   color: rgba(0, 0, 0, 0.121);
+}
+.head5{
+    font-size: 30px;
+    margin-top: -38px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: bold;
+}
+.paragraph2{
+    font-size: 18px;
+ }
+/* .socialprofile-box{
+    min-height: 300px;
+    background-color: whitesmoke;
+    margin-top: 50px;
+    text-align: center;
+   box-shadow:  0px 0px 6px 0px gray;
+}
+.share-icon{
+    margin-top: 80px;
+    display: inline-block;
+    font-size: 25px;
+     color: indigo;
+    background-color:rgb(223, 193, 245);
+    border: px solid;
+    padding: 5px 16px 5px 16px;
+    border-radius: 50%;
+}
+.head6{
+    margin-top: 20px;
+    font-size: 25px;
+    color: gray;
+}
+.media-icon{
+    color: gray;
+    margin: 7px;
+    font-size: 25px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    padding: 5px 10px 5px 10px;
+    margin-top: 15px;
+    display: inline-block;
+}
+.media-icon:hover{
+    background-color: indigo;
+}
+.email-box{
+    height: 150px;
+    background-color: whitesmoke;
+    margin-top: 30px;
+    text-align: center;
+    box-shadow: 0px 0px 6px 0px gray;
+}
+.my-icon{
+    color: indigo;
+    font-size: 20px;
+    margin-top: 30px;
+    display: inline-block;
+    border: solid   rgb(223, 193, 245);
+    padding: 5px 10px 5px 10px;
+    border-radius: 50%;
+    background-color: rgb(223, 193, 245);
+}
+.email{
+    color: gray;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.form-box{
+    min-height: 400px;
+    background-color: whitesmoke;
+    margin-top: 50px;
+    box-shadow: 0px 0px 6px 0px gray;
+    text-align: center;
+}
+#name{
+    margin-top: 30px;
+    height: 40px;
+}
+#email{
+    height: 40px;
+}
+#subject{
+    width: 500px;
+    height: 40px;
+}
+#message{
+    height: 100px;
+    width: 500px;
+}
+
+.send{
+    text-decoration: none;
+    border:1px solid gray;
+   margin-top: 40px;
+   display: inline-block;
+   color:indigo;
+   padding: 8px 10px 8px 10px;
+   background-color: rgb(223, 193, 245) ;
+}  */
+.sec6{
+    min-height: 600px;
+    background-color: lightblue;
+    margin-top: 50px;
+}
+.contact-box{
+    min-height: 50px;
+   background-color: white;
+    text-align: left;
+    
+}
+.my-location{
+    margin-left: 25px;
+}
+.location{
+    margin-top: 10px;
+    display: inline-block;
+    margin-left: 20px;
+}
+.form-box{
+    min-height: 400px;
+    background-color: white;
+    margin-top: 30px;
+    padding: 20px;
+    
+}
+.map-box{
+    min-height: 400px;
+    /* background-color: white; */
+    margin-top: 30px;   
+}
+
+.lastbox{
+    min-height: 300px;
+    background-color: dimgrey;
+   margin-top: 50px;
+  
+}
+.sec8{
+    /* text-align: center; */
+    color: aliceblue;
+    
+}
+.head7{
+    font-size: 40px;
+    font-family: "Satisfy", serif;;
+}
+.submit{
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    border: 1px solid gray;
+    padding: 5px 10px 5px 10px;
+    margin-top: 30px;
+    
+}
+.submit:hover{
+    color: white;
+    background-color: navy;
+   
+}
+
+.heading{
+   display: inline-block;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.about-box{
+    min-height: 200px;
+    /* background-color: antiquewhite; */
+    margin-top: 30px;
+    
+}
+.my-about{
+    font-size: 25px;
+}
+.about-location{
+    color:black;
+    margin-top: 10px;
+    display: inline-block;
+    margin-right: 20px;
+}
+.about-call{
+    color: black;
+    margin-left: 10px;
+}
+.about-email{
+    color: black;
+    margin-left: 20px;
+}
+.arrow-icon{
+    color: black;
+    display: inline-block;
+    
+}
+.link{
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+}
+.link a:link,.link a:visited,.link a:active,.link a:hover{
+    text-decoration: none !important;
+}
+.footlinks{
+    list-style-type: none;
+    margin: 0px;
+    text-align: left;
+}
+.my-link{
+    font-size: 25px;
+    margin-left: 25px;
+}
+.web{
+    text-decoration: none;
+    color: white;
+}
+.my-about{
+    margin-left: 30px;
+}
+.mylocation{
+    color: black;
+}
+.website{
+    font-size: 15px;
+    display: inline-block;
+    color: black;
+}
+@media(max-width:445px){
+    .myabout,.resume{
+        font-size: 50px;
+    }
+}
+@media(max-width:320px){
+    .myabout,.resume{
+        font-size: 40px;
+    }
+}
+@media(max-width:445px){
+    .head1{
+        font-size:22px ;
+    }
+}
+#ph{
+    border: 1px solid gray;
+}
+#name{
+    border: 1px solid gray; 
+}
+#email{
+    border: 1px solid gray;
+}
+#address{
+    border: 1px solid gray;
+}
